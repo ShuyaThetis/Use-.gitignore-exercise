@@ -2,6 +2,6 @@ node_modules/
 # z auto generated files - Ignore all files starting with the letter z
 z*
 # Ignores a file called .env.
-.evn
+.env
 # Ignores a top-level directory named artifacts
-/artifacts
+/artifacts/
